@@ -14,7 +14,7 @@ It will be easier to determine the predicting factor which is contributing to lo
 ## Url
 Node-red dashboard URL:https://node-red1143.eu-gb.mybluemix.net/ui/#!/0?socketid=-YzzUXq-K-pGncQsAAAi
 
-Video demonstration:
+Project demonstration video: https://drive.google.com/file/d/1kpnYTWyKuoVTTwg_9w5I0puOWWAy7CL3/view?usp=drivesdk
 
 Feedback video: https://drive.google.com/file/d/1kYIuTGFHt-Vwm0OM3_r_jRtn_9eXmlD2/view?usp=sharing
 

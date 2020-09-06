@@ -5,7 +5,7 @@ Life expectancy is a statistical measure of the average time a human is expected
 • Socioeconomic status including employment, income, education and economic wellbeing. The quality of the health system and the ability of people to access it; health behaviors such as tobacco and excessive alcohol consumption, poor nutrition and lack of exercise.
 • Social factors, genetic factors, and environmental factors including overcrowded housing, lack of clean drinking water and adequate sanitation, etc.
 
-It is a typical Regression Machine Learning project.My idea to implement this project is to use a dataset containing data based on different countries.It includes  training the dataset on regression algorithms like Multiple Linear Regression,Polynomial Regrssion,Logistic Regression, etc.
+It is a typical Regression Machine Learning project.My idea to implement this project is to use a dataset containing data based on different countries.It includes  training the dataset on regression algorithms like Multiple Linear Regression,Decision tree,Random Forest.
 
 ## Scope of use
 

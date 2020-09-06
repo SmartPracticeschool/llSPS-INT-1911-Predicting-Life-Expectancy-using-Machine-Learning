@@ -7,6 +7,8 @@ Life expectancy is a statistical measure of the average time a human is expected
 
 It is a typical Regression Machine Learning project.My idea to implement this project is to use a dataset containing data based on different countries.It includes  training the dataset on regression algorithms like Multiple Linear Regression,Decision tree,Random Forest.
 
+The end product of this project is a webpage containing a form which takes input and give the required life expectancy as output.
+
 ## Scope of use
 
 It will be easier to determine the predicting factor which is contributing to lower value of life expectancy. This will help in suggesting a country which area should be given importance in order to efficiently improve the life expectancy of its population.
